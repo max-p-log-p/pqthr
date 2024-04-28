@@ -1,0 +1,3 @@
+[submodule "gzkbpp"]
+	path = gzkbpp
+	url = https://github.com/IAIK/gzkbpp.git
