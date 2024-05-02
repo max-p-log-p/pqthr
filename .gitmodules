@@ -1,3 +1,6 @@
 [submodule "gzkbpp"]
 	path = gzkbpp
 	url = https://github.com/IAIK/gzkbpp.git
+[submodule "Picnic"]
+	path = Picnic
+	url = https://github.com/microsoft/Picnic.git
