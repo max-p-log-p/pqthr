@@ -4,3 +4,9 @@
 [submodule "Picnic"]
 	path = Picnic
 	url = https://github.com/microsoft/Picnic.git
+[submodule "flint"]
+	path = flint
+	url = https://github.com/flintlib/flint
+[submodule "ntl"]
+	path = ntl
+	url = https://github.com/libntl/ntl.git
